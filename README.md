@@ -1,6 +1,19 @@
 # aws-lakeformation-demo
 
+## lakeformation landscape
 ![plot](images/demo.png)
+
+## mysql DB
+![plot](images/mysql-tickit.png)
+
+## postgresql DB
+![plot](images/postgre-tickit.png)
+
+## lakeformation mysql blueprint
+![plot](images/mysql_blueprint.png)
+
+## lakeformation postgresql blueprint
+![plot](images/postgresql_blueprint.png)
 
 #### [1] execute to prepare the env
 
